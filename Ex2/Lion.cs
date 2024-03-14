@@ -1,4 +1,4 @@
-﻿using Ex2;
+using Ex2;
 using System;
 using System.Collections.Generic;
 using System.Linq;
